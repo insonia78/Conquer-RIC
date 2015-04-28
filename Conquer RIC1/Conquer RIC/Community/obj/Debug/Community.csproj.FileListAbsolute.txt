@@ -1,0 +1,12 @@
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\bin\Debug\Community.exe.config
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\bin\Debug\Community.exe
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\bin\Debug\Community.pdb
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\obj\Debug\Community.exe
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\obj\Debug\Community.pdb
+C:\Users\Tyler\Documents\GitHub\csci-401-project\Conquer RIC\Community\obj\Debug\Community.csprojResolveAssemblyReference.cache
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\bin\Debug\Community.exe.config
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\bin\Debug\Community.exe
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\bin\Debug\Community.pdb
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\obj\Debug\Community.csprojResolveAssemblyReference.cache
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\obj\Debug\Community.exe
+C:\Users\thomas\Desktop\Conquer RIC\Conquer RIC\Community\obj\Debug\Community.pdb

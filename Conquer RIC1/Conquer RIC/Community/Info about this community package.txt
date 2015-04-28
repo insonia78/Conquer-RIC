@@ -1,0 +1,11 @@
+
+
+This package will hold the different character classes (heros/enemy) ,
+
+Body part classes for the heros to wear their equipment,
+
+and item classes (support/equipment). 
+
+Still a work in progress, will be finished soon!
+
+						- Cedric

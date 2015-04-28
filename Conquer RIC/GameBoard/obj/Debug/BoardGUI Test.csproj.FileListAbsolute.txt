@@ -1,0 +1,13 @@
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\bin\Debug\BoardGUI Test.exe.config
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test.csprojResolveAssemblyReference.cache
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\MainWindow.baml
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\MainWindow.g.cs
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\App.g.cs
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test_MarkupCompile.cache
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test.g.resources
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test.csproj.GenerateResource.Cache
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\bin\Debug\BoardGUI Test.exe
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\bin\Debug\BoardGUI Test.pdb
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test.exe
+c:\users\tyler\documents\visual studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\BoardGUI Test.pdb
+C:\Users\Tyler\Documents\Visual Studio 2013\Projects\BoardGUI Test\BoardGUI Test\obj\Debug\GameBoard.Properties.Resources.resources
